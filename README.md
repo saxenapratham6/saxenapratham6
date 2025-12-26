@@ -80,21 +80,22 @@
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/saxenapratham6/saxenapratham6/output/github-contribution-grid-snake-dark.svg" />
-  <img
-    src="https://raw.githubusercontent.com/saxenapratham6/saxenapratham6/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake" />
-</picture>
+<img
+  src="https://raw.githubusercontent.com/saxenapratham6/saxenapratham6/output/github-contribution-grid-snake-dark.svg"
+  alt="Contribution Snake"
+/>
+
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saxenapratham6&theme=darkhub&row=1&margin-w=15" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=saxenapratham6&theme=onedark&no-frame=true&row=1"
+  />
 </p>
+
 
 ---
 
